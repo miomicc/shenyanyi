@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://miomicc.github.io/miomi.github.io/</id>
+    <id>https://miomicc.github.io/miomi.github.io</id>
     <title>沈冉</title>
-    <updated>2021-04-14T16:57:21.273Z</updated>
+    <updated>2021-04-14T16:58:46.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://miomicc.github.io/miomi.github.io/"/>
+    <link rel="alternate" href="https://miomicc.github.io/miomi.github.io"/>
     <link rel="self" href="https://miomicc.github.io/miomi.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://miomicc.github.io/miomi.github.io/images/avatar.png</logo>
