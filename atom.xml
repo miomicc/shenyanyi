@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miomicc.github.io/miomi.github.io</id>
-    <title>沈千妤</title>
-    <updated>2021-04-17T02:56:09.863Z</updated>
+    <title>沈晏仪</title>
+    <updated>2021-04-17T02:57:15.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miomicc.github.io/miomi.github.io"/>
     <link rel="self" href="https://miomicc.github.io/miomi.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://miomicc.github.io/miomi.github.io/images/avatar.png</logo>
     <icon>https://miomicc.github.io/miomi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 沈千妤</rights>
+    <rights>All rights reserved 2021, 沈晏仪</rights>
     <entry>
         <title type="html"><![CDATA[中文排版小样]]></title>
         <id>https://miomicc.github.io/miomi.github.io/post/zhong-wen-pai-ban-xiao-yang/</id>
