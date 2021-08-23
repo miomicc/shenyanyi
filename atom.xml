@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://miomicc.github.io/miomi.github.io</id>
+    <id>https://shenyanyi.top</id>
     <title>沈晏仪</title>
-    <updated>2021-08-21T15:24:07.080Z</updated>
+    <updated>2021-08-23T04:18:36.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://miomicc.github.io/miomi.github.io"/>
-    <link rel="self" href="https://miomicc.github.io/miomi.github.io/atom.xml"/>
+    <link rel="alternate" href="https://shenyanyi.top"/>
+    <link rel="self" href="https://shenyanyi.top/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://miomicc.github.io/miomi.github.io/images/avatar.png</logo>
-    <icon>https://miomicc.github.io/miomi.github.io/favicon.ico</icon>
+    <logo>https://shenyanyi.top/images/avatar.png</logo>
+    <icon>https://shenyanyi.top/favicon.ico</icon>
     <rights>All rights reserved 2021, 沈晏仪</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://miomicc.github.io/miomi.github.io/post/ce-shi/</id>
-        <link href="https://miomicc.github.io/miomi.github.io/post/ce-shi/">
+        <id>https://shenyanyi.top/post/ce-shi/</id>
+        <link href="https://shenyanyi.top/post/ce-shi/">
         </link>
         <updated>2021-08-20T03:23:14.000Z</updated>
         <content type="html"><![CDATA[<p>测试测试测试测试</p>
@@ -21,17 +21,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[记录我的女儿]]></title>
-        <id>https://miomicc.github.io/miomi.github.io/post/ji-lu-wo-de-nu-er/</id>
-        <link href="https://miomicc.github.io/miomi.github.io/post/ji-lu-wo-de-nu-er/">
+        <id>https://shenyanyi.top/post/ji-lu-wo-de-nu-er/</id>
+        <link href="https://shenyanyi.top/post/ji-lu-wo-de-nu-er/">
         </link>
         <updated>2021-05-25T12:45:14.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://miomicc.github.io/miomi.github.io/post-images/1621946744692.jpeg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://shenyanyi.top/post-images/1621946744692.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的女儿]]></title>
-        <id>https://miomicc.github.io/miomi.github.io/post/wo-de-nu-er/</id>
-        <link href="https://miomicc.github.io/miomi.github.io/post/wo-de-nu-er/">
+        <id>https://shenyanyi.top/post/wo-de-nu-er/</id>
+        <link href="https://shenyanyi.top/post/wo-de-nu-er/">
         </link>
         <updated>2021-05-25T12:40:26.000Z</updated>
         <content type="html"><![CDATA[<p>测试，测试发布一篇测试</p>
